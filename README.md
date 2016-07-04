@@ -6,8 +6,8 @@
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.6";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
-<div class="fb-post" data-href="https://www.facebook.com/almohtarif.almotamarrid/posts" data-width="500" data-show-text="true"></div>
-"https://www.facebook.com/Cristiano/photos/a.407367867163.178908.81221197163/10154413521937164/?type=3&theater"
+<div class="fb-post" data-href="https://https://www.facebook.com/Cristiano/photos/a.407367867163.178908.81221197163/10154413521937164/?type=3&theater" data-width="500" data-show-text="true"></div>
+"www.facebook.com/almohtarif.almotamarrid/posts"
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
